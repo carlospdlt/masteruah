@@ -27,8 +27,8 @@ git remote add -> Te permite crear conexion con otros repositorios
 git push -> cargar el contenido local a otro repositorio. 
 Si no se usa git remote add se tendria que poner la url completa en vez de origin.
 
->| NOMBRE  | GITHUB                                                       |
->| ------- | ------------------------------------------------------------ |
->| Alfonso | \| AlfonsoAlcaraz \|https://github.com/AlfonsoAlcaraz/masteruah\| |
->| Fran    | \| Franxer \|https://github.com/Franxer/masteruah\|          |
->| David   | \| DBRAVO \|https://github.com/DBRAV0/masteruah\|            |
+| NOMBRE  | GITHUB                                                       |
+| ------- | ------------------------------------------------------------ |
+| Alfonso | \| AlfonsoAlcaraz \|https://github.com/AlfonsoAlcaraz/masteruah\| |
+| Fran    | \| Franxer \|https://github.com/Franxer/masteruah\|          |
+| David   | \| DBRAVO \|https://github.com/DBRAV0/masteruah\|            |
