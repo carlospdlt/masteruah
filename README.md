@@ -4,6 +4,8 @@ COMANDOS
 
 ls -> Listar archivos y directorios
 
+cd -> cambiar el directorio
+
 touch -> crear archivo
 
 nano -> abrir con editor de texto
@@ -20,12 +22,26 @@ git init -> Inicializar un nuevo repositorio. Crea el directorio oculto .git en 
 
 git add -> Indica a git que quieres incluir los cambios de este fichero en la proxima actualizacion
 
-git commit -> Confirmar una instantanea del directorio con los cambios
+git status -s -> Comprobamos el estado de los archivos del repositorio respecto a los de github
+
+git commit -m "[nombre_commit]" -> Confirmar una instantanea del directorio con los cambios
 
 git remote add -> Te permite crear conexion con otros repositorios
 
 git push -> cargar el contenido local a otro repositorio. 
 Si no se usa git remote add se tendria que poner la url completa en vez de origin.
+
+git tag [nombre_tag] -> Añadir un tag
+
+git branch [nombre rama] -> añadir rama
+
+git checkout [nombre rama] -> cambiar de rama
+
+git log --oneline -> ver commits por ramas
+
+git merge [rama_a_fusionar] -> Fusiona la rama actual con la que indiquemos 
+
+------------------------------------------------------------------------------------------------------------------
 
 | NOMBRE  | GITHUB                                                       |
 | ------- | ------------------------------------------------------------ |
