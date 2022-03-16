@@ -185,7 +185,7 @@ de 2 organizaciones de las que no seais ni administradiores ni colaboradores.
 
 ----------------------------------------------------------------------------------------------------------------------
 # Comandos
-----------------------------------------------------------------------------------------------------------------------
+
 COMANDOS CONSOLA
 
 ls -> Listar archivos y directorios
