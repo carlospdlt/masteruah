@@ -184,8 +184,9 @@ de 2 organizaciones de las que no seais ni administradiores ni colaboradores.
 1. Aceptar los pull-request que lleguen a los repositorios de tu organización.
 
 ----------------------------------------------------------------------------------------------------------------------
+# Comandos
 ----------------------------------------------------------------------------------------------------------------------
-COMANDOS
+COMANDOS CONSOLA
 
 ls -> Listar archivos y directorios
 
