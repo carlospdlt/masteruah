@@ -25,7 +25,7 @@ un documento **README.md**.
 
 ![image](https://user-images.githubusercontent.com/56385649/158633312-f9e86d9e-0b77-4ec7-988a-b522a26dbb72.png)
 
-<a name=»item1″>ver comandos</a>
+Los comandos se encuentran al final del documento
 
 ## Push inicial
 1. Subir los cambios al repositorio remoto.
@@ -183,9 +183,9 @@ de 2 organizaciones de las que no seais ni administradiores ni colaboradores.
 
 1. Aceptar los pull-request que lleguen a los repositorios de tu organización.
 
-
 ----------------------------------------------------------------------------------------------------------------------
-COMANDOS(#item1)
+----------------------------------------------------------------------------------------------------------------------
+COMANDOS
 
 ls -> Listar archivos y directorios
 
